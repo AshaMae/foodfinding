@@ -1,0 +1,30 @@
+
+* {
+    font-family: 'Times New Roman', Times, serif;
+     background-color: cornsilk;
+}
+
+
+a {
+  color: seagreen;
+}
+
+.title {
+  font-size: 36px;
+  font-weight: bold;
+  color: cornsilk;
+  background-color: rgb(19, 59, 36); 
+  text-align: center;
+  padding: 10px;
+  margin: 0 auto;
+  border: solid seagreen 6px;
+}
+
+.list-container {
+border: 2px solid black;
+display: flex;
+}
+
+    /*width: n/a;
+      margin: 0 auto;
+      (horizontal centering)
